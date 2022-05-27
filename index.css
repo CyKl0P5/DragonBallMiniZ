@@ -9,6 +9,12 @@
     width: 45px;
     height: 60px;
 }
+#gokuright {
+    position: absolute;
+    background-image: url("gokuright.png");
+    width: 45px;
+    height: 60px;
+}
 #freezer {
     position: absolute;
     background-image: url("freezer.png");
@@ -42,6 +48,12 @@
 #kamehafre {
     position: absolute;
     background-image: url("ataque\ freezer.png");
+    width: 190px;
+    height: 30px;
+}
+#barravidagoku {
+    position: absolute;
+    background-image: url("barravidagoku.png");
     width: 190px;
     height: 30px;
 }
