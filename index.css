@@ -57,3 +57,9 @@
     width: 190px;
     height: 30px;
 }
+#gokuleft {
+    position: absolute;
+    background-image: url("gokuleft.png");
+    width: 45px;
+    height: 60px;
+}
